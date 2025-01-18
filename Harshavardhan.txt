@@ -1,0 +1,4 @@
+Age: 18
+School: St. Xavier's Collegiate School, Kolkata 
+Class: 11
+Section: A
