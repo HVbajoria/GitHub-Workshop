@@ -1,4 +1,4 @@
-Age: 18
-School: St. Xavier's Collegiate School, Kolkata 
-Class: 11
-Section: A
+Age: 22
+Current position: GitHub Campus Expert
+Company: Unstop
+LinkedIn Profile: https://www.linkedin.com/in/harshavardhan-bajoria/
